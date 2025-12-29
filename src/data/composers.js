@@ -43,7 +43,7 @@ export const composers = [
     slug: "frederic_chopin",
     imslp: "https://imslp.org/wiki/Category:Chopin,_Fr%C3%A9d%C3%A9ric",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/9/9f/Chopin%2C_by_Wodzinska.JPG",
+     "https://cdn.britannica.com/60/140360-050-A2E7778E/LA-Bisson-Frederic-Chopin-detail-photo-publisher-1849.jpg",
     bio:
       "Frédéric Chopin was a Polish composer and virtuoso pianist of the Romantic era, known primarily for his solo piano works."
   }

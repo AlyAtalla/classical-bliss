@@ -1,0 +1,104 @@
+.composer {
+  padding: 3rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+.composer-header {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.composer-header img {
+  width: 160px;
+  height: auto;
+  border-radius: 12px;
+  background: #222;
+}
+
+.composer-header h1 {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.composer-header span {
+  opacity: 0.7;
+}
+
+.bio {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 3rem;
+}
+
+.works h2 {
+  margin-bottom: 0.5rem;
+}
+
+.imslp-link {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.2rem;
+  background: #2c2c3a;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.imslp-link:hover {
+  background: #3a3a52;
+}
+
+.works {
+  margin-top: 3rem;
+}
+
+.work {
+  background: #1b1b22;
+  padding: 1.2rem;
+  border-radius: 12px;
+  margin-bottom: 1.2rem;
+}
+
+.work h3 {
+  margin: 0 0 0.4rem;
+}
+
+.work span {
+  font-size: 0.9rem;
+  opacity: 0.7;
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+audio {
+  width: 100%;
+}
+
+.instrument-group {
+  margin-bottom: 2rem;
+}
+
+.instrument-group h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.8rem;
+  text-decoration: underline;
+}
+
+.work {
+  margin-bottom: 1rem;
+  background: #1b1b22;
+  padding: 0.8rem;
+  border-radius: 10px;
+}
+
+.work p {
+  margin: 0 0 0.4rem 0;
+  font-weight: 500;
+}
+
+audio {
+  width: 100%;
+}
