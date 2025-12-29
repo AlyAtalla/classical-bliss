@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0e0e11;
+  color: #f4f4f4;
+}
+
+.home {
+  padding: 3rem;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  letter-spacing: 1px;
+}
+
+.hero p {
+  opacity: 0.8;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background: #1b1b22;
+  padding: 1.5rem;
+  border-radius: 14px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  background: #242432;
+}
+
+.card h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+}
+
+.card span {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
